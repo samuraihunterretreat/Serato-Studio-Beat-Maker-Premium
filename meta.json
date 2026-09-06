@@ -1,0 +1,23 @@
+{
+  "repo": "serato-studio-beat-maker-premium",
+  "product": "Serato Studio Beat Maker Premium",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "audio",
+  "topics": [
+    "serato-studio",
+    "beat-maker",
+    "sample-chop",
+    "stem-packs",
+    "dj-production",
+    "serato-setup-failed-fix",
+    "how-to-install-serato",
+    "serato-windows",
+    "serato-desktop-2026",
+    "serato-desktop-package"
+  ],
+  "site": "toolix.me"
+}
